@@ -19,7 +19,7 @@ The target platform is ideally a Raspberry pi with a secondary USB Wifi Dongle.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/deauth_detector.git
+   git clone https://github.com/markuskreitzer/deauth_detector.git
    cd deauth_detector
    ```
 2. Install the necessary Python libraries. The commands below will create a venv environment to install python packages in so that it doesn't conflict with anything in the global scope.
