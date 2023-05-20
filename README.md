@@ -51,7 +51,7 @@ The target platform is ideally a Raspberry pi with a secondary USB Wifi Dongle.
 5. Run the install script with your ESSID and the interface you want to monitor as arguments:
 
    ```bash
-./install.sh your_essid your_interface
+   ./install.sh your_essid your_interface
    ```
 
 6. To start the service:
